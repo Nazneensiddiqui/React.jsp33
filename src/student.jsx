@@ -5,7 +5,7 @@ const Students=(props)=>{
         <>
         <h1>Student Name : {props. nm}</h1>
         <h1>Roll No : {props. rol}</h1>
-        <h1>Ctiy : {props. ct}</h1>
+        <h1>City : {props. ct}</h1>
         
         
         </>

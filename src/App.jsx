@@ -2,7 +2,9 @@ import Header from "./Header.jsx";
 import Mydata from "./Mydata.jsx";
 import Footer from "./Footer.jsx";
 import Students from "./student.jsx";
-import Collage from "./collage.jsx";
+import Map from "./map.jsx";
+import Collage from "./assets/collage.jsx";
+
 
 const name = "LNCT Collage";
 const Sno = " 60";
@@ -19,6 +21,8 @@ const App=()=>{
     <Footer/>
     <Students nm="naaz" rol="101" ct="Bhopal"/>
     <Collage cnm={name} seat={Sno} add={address}/>
+
+    <Map/>
     </>
   )
 }
