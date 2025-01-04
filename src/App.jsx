@@ -3,7 +3,7 @@ import Mydata from "./Mydata.jsx";
 import Footer from "./Footer.jsx";
 import Students from "./student.jsx";
 import Map from "./map.jsx";
-import Collage from "./assets/collage.jsx";
+import Collage from "./collage.jsx";
 
 
 const name = "LNCT Collage";
